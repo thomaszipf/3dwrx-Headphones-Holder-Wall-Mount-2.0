@@ -1,6 +1,7 @@
 # 3dwrx-Headphones-Holder-Wall-Mount-2.0
 
-Link to the producto on Thingiverse:
+
+Link to the product on Thingiverse:
 https://www.thingiverse.com/thing:3350718
 
 
