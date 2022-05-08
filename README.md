@@ -13,7 +13,7 @@ The last version I published was very good accepted, however, from my perspectiv
   <img 
     width="800"
     height="800"
-    src="https://github.com/thomaszipf/3dwrx-Headphones-Holder-Wall-Mount-2.0/blob/main/Images/Headphones-Holder-Wall-Mount-2.0.PNG"
+    src="https://github.com/thomaszipf/3dwrx-Headphones-Holder-Wall-Mount-2.0/blob/main/Images/Headphones-Holder-Wall-Mount-V2.0.PNG"
   >
 </p>
 
